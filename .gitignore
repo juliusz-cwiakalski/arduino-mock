@@ -17,6 +17,13 @@
 *.la
 *.a
 
+#eclipse files
+.cproject
+.project
+Makefile
+lib/gmock/Makefile
+lib/gtest/Makefile
+
 # Cmake files
 CMakeCache.txt
 CMakeFiles
